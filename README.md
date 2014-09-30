@@ -12,6 +12,7 @@ architecture](http://facebook.github.io/react/docs/flux-overview.html).
 
 Installation
 ------------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/randallsquared/fluxxor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Fluxxor is available on npm and works with module bundlers like
 [Browserify](http://browserify.org/) and [Webpack](http://webpack.github.io/).
